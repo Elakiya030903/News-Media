@@ -13,7 +13,7 @@ https://nm-news.vercel.app/
 ### App User Interface
 
 ![Home Screen](https://i.imgur.com/EA92YOC.png)
-![news](src/assets/images/default_breaking_news.png)
+![countries](https://mail.google.com/mail/u/0/popout?ver=1g3ytthb29lwb#attid%253Datt_18bb99565946cb16_0.1_f_losp759f0)
 
 ### Usage and Setup
 - Clone this repo. Go into the root folder and run *yarn* to install the dependencies.
